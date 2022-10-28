@@ -1,4 +1,4 @@
-# base16-dwm
+# base16-nvim-base16
 
 [Base16][1] for [nvim-base16][2]
 
